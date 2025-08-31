@@ -11,7 +11,7 @@ Below is a visual representation of the architecture and workflow of this projec
 
 ![AWS Deployment Diagram](map.png)
 
-> **Note:** Replace `map.png` with the actual relative path if you host it on GitHub.
+
 
 ---
 
